@@ -43,7 +43,12 @@ import java.util.Locale;
 
 import static android.os.Build.VERSION_CODES.M;
 
+<<<<<<< HEAD
 // 1111111111111222222222222222222222222 TEST
+=======
+// 1111111111111222222222222222222222222
+//3333333333333333333333333333333333333333333333333333333333
+>>>>>>> 3333333
 public class MainActivity1 extends AppCompatActivity {
     private WebView webview;
     private ValueCallback<Uri[]> mFilePathCallback;
